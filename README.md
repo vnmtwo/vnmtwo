@@ -1,6 +1,7 @@
-Hi, my name is Aleksei  and **Im looking for job**.
+Hi, my name is Aleksei. I'm located in Saint Petersburg, Russia.  
+**Im looking for job**.
 
-I have several completed applications in C#.
+I have several completed applications in C# (WPF, libs).
 In this account, I will post my answers to tasks from (pre)interviews.
 
 <!---
